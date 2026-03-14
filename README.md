@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Alexander</h1>
   <h4>Student at Peter the Great St. Petersburg Polytechnic University</h4>
-  <h4>Institute of Physics, Nanotechnology and Telecommunications</h4>
+  <h4>Institute of Physics and Mechanics</h4>
   <h4>Major: Applied Mathematics and Computer Science</h4>
 </div>
 
