@@ -23,8 +23,36 @@
 
 <br/><br/>
 
-### What I work on
+### About me
 
-- Numerical optimization methods
-- Algorithms and data structures
-- Application and UI development
+- 🎓 Studying Applied Mathematics and CS at SPbPU
+- 🧠 Interested in algorithms, AI, mathematical optimization and backend development
+- ⚙️ Passionate about systems programming and software architecture
+- 📫 Reach me: [Telegram](https://t.me/Sunnix_718)
+
+<br/>
+
+### Projects
+
+| Project | Description |
+|---|---|
+| 🤖 Crypto Analytics Bot | Tool for analyzing cryptocurrency market data |
+| 📄 Document OCR System | System for extracting text from documents |
+
+<br/>
+
+### Strengths
+
+- 🔢 Strong mathematical background
+- 🧩 Algorithmic thinking
+- 🐛 Debugging complex systems
+- 🏗️ Software architecture
+
+<br/>
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHISH82&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHISH82&layout=compact&theme=dark&hide_border=true" height="150"/>
+</div>
